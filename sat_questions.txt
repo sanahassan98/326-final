@@ -1,0 +1,45 @@
+"
+Question: alleviate
+Answer: to make better, easier
+
+End"
+"
+Question: abstract
+Answer: not specific, theoretical
+
+End"
+"
+Question: acute
+Answer: urgent, strong, powerful
+
+End"
+"
+Question: anarchy
+Answer: lawlessness
+
+End"
+"
+Question: apathy
+Answer: not caring, lack of interest
+
+End"
+"
+Question: to augment
+Answer: to add to something, to expand
+
+End"
+"
+Question: austere
+Answer: harsh, severe, plain
+
+End"
+"
+Question: candid
+Answer: honest, straightforward
+
+End"
+"
+Question: to censure
+Answer: to condemn, criticize
+
+End"
